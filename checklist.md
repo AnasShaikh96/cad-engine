@@ -4,4 +4,4 @@ Books to read.
 2. WebGL Fundamentals
 3. Geometric Modeling (Mortenson)
 4. Computational Geometry
-5.Rust-WASM Book
+5. Rust-WASM Book
