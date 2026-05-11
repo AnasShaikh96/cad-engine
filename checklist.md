@@ -5,3 +5,9 @@ Books to read.
 3. Geometric Modeling (Mortenson)
 4. Computational Geometry
 5. Rust-WASM Book
+
+
+
+projects:
+1. ngrok - reverse proxy engine
+2. redis - use rust
